@@ -28,6 +28,17 @@ function isPalindrome(word) {
   3. And then I split the string characters
   4. Reverse the string
   5. Finally, I join the characters
+
+  function isPalindrome(str):
+  // Reverse the string
+  reversedStr = str split into an array, reverse the array, 
+  and join the reversed characters back into a string
+  // Compare the original string with the reversed string
+  if str is equal to reversedStr:
+    return true
+  else:
+    return false
+
 */
 
 /*
